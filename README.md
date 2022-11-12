@@ -2,7 +2,7 @@
 
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
 
-## Set up a CI/CD pipeline
+## Set-Up-A-CI-CD-Pipeline-deploy-AWS
 
 Set up a project using GitHub Actions, which will automatically run tests and deploy the application to the cloud
 
